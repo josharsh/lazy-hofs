@@ -1,0 +1,35 @@
+{
+  "name": "lazy-hofs",
+  "version": "1.0.1",
+  "description": "Bring lazy evaluation of higher order functions to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josharsh/lazy-hofs.git"
+  },
+  "keywords": [
+    "javascript",
+    "lazy evaluation",
+    "higher order functions",
+    "map",
+    "some",
+    "filter",
+    "reduce",
+    "lazy Some",
+    "lazy Map",
+    "lazy Reduce",
+    "lazy Filter"
+  ],
+  "author": "josharsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josharsh/lazy-hofs/issues"
+  },
+  "homepage": "https://github.com/josharsh/lazy-hofs#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
