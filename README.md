@@ -5,6 +5,16 @@ Lazy higher order functions in javascript!
 ## No! It's not what the picture says!
 It Brings lazy evaluation to higher order functions in javascript
 
+## How to Use 
+##### Install the package
+```bash
+npm i lazy-hofs
+```
+
+### Add to your project
+```js
+require("lazy-hofs");
+```
 ## Docs
 ### lazySome()
 ```js
